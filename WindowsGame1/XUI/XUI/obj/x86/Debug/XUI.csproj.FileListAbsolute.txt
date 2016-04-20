@@ -1,0 +1,11 @@
+C:\Users\Eahscs\Desktop\XUI\XUI\bin\x86\Debug\XUI.dll
+C:\Users\Eahscs\Desktop\XUI\XUI\bin\x86\Debug\XUI.pdb
+C:\Users\Eahscs\Desktop\XUI\XUI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eahscs\Desktop\XUI\XUI\obj\x86\Debug\XUI.dll
+C:\Users\Eahscs\Desktop\XUI\XUI\obj\x86\Debug\XUI.pdb
+C:\Users\Eahscs\Desktop\XUI\XUI\obj\x86\Debug\XUI.csprojResolveAssemblyReference.cache
+C:\Users\Eahscs\Documents\Visual Studio 2010\Projects\WindowsGame1\XUI\XUI\bin\x86\Debug\XUI.dll
+C:\Users\Eahscs\Documents\Visual Studio 2010\Projects\WindowsGame1\XUI\XUI\bin\x86\Debug\XUI.pdb
+C:\Users\Eahscs\Documents\Visual Studio 2010\Projects\WindowsGame1\XUI\XUI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eahscs\Documents\Visual Studio 2010\Projects\WindowsGame1\XUI\XUI\obj\x86\Debug\XUI.dll
+C:\Users\Eahscs\Documents\Visual Studio 2010\Projects\WindowsGame1\XUI\XUI\obj\x86\Debug\XUI.pdb

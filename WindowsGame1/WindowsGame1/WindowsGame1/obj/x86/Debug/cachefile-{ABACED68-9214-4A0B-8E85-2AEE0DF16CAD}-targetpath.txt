@@ -1,0 +1,3 @@
+Content\Fonts\SegoeUI.xnb
+Content\Textures\UI_Box.xnb
+Content\Fonts\SegoeUI.fnt

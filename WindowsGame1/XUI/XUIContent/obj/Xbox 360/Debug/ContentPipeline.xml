@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\UI_Null.bmp</Source>
+      <Name>Textures\UI_Null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Textures\UI_Null.xnb</Output>
+      <Time>2016-04-20T10:38:29.1485-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug\Debug_Menu.tga</Source>
+      <Name>Debug\Debug_Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Debug\Debug_Menu.xnb</Output>
+      <Time>2016-04-20T10:38:28.8989-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\UI_GrayScale.fx</Source>
+      <Name>Effects\UI_GrayScale</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_GrayScale.xnb</Output>
+      <Time>2016-04-20T10:38:28.9301-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_IntensityAsAlpha.fx</Source>
+      <Name>Effects\UI_IntensityAsAlpha</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_IntensityAsAlpha.xnb</Output>
+      <Time>2016-04-20T10:38:28.9301-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_IntensityAsAlpha.fxh</Key>
+        <Value>2016-04-20T10:38:29.0549-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_IntensityAsAlphaTexture.fx</Source>
+      <Name>Effects\UI_IntensityAsAlphaTexture</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Defines">TEXTURE</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_IntensityAsAlphaTexture.xnb</Output>
+      <Time>2016-04-20T10:38:29.0705-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_IntensityAsAlpha.fxh</Key>
+        <Value>2016-04-20T10:38:29.0549-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_IntensityAsAlphaTexture_PMA.fx</Source>
+      <Name>Effects\UI_IntensityAsAlphaTexture_PMA</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Defines">TEXTURE;PMA</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_IntensityAsAlphaTexture_PMA.xnb</Output>
+      <Time>2016-04-20T10:38:29.0861-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_IntensityAsAlpha.fxh</Key>
+        <Value>2016-04-20T10:38:29.0549-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_IntensityAsAlpha_PMA.fx</Source>
+      <Name>Effects\UI_IntensityAsAlpha_PMA</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Defines">PMA</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_IntensityAsAlpha_PMA.xnb</Output>
+      <Time>2016-04-20T10:38:29.0861-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_IntensityAsAlpha.fxh</Key>
+        <Value>2016-04-20T10:38:29.0549-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_MultiTexture1.fx</Source>
+      <Name>Effects\UI_MultiTexture1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_MultiTexture1.xnb</Output>
+      <Time>2016-04-20T10:38:29.1173-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_MultiTexture.fxh</Key>
+        <Value>2016-04-20T10:38:29.1017-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_MultiTexture2.fx</Source>
+      <Name>Effects\UI_MultiTexture2</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Defines">TEXTURES_2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_MultiTexture2.xnb</Output>
+      <Time>2016-04-20T10:38:29.1173-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_MultiTexture.fxh</Key>
+        <Value>2016-04-20T10:38:29.1017-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\UI_MultiTexture3.fx</Source>
+      <Name>Effects\UI_MultiTexture3</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Defines">TEXTURES_3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Effects\UI_MultiTexture3.xnb</Output>
+      <Time>2016-04-20T10:38:29.1329-04:00</Time>
+      <Dependency>
+        <Key>Effects\UI_MultiTexture.fxh</Key>
+        <Value>2016-04-20T10:38:29.1017-04:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>Effects\UI_Common.fxh</Key>
+        <Value>2016-04-20T10:38:28.9145-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Debug\Debug_Font.spritefont</Source>
+      <Name>Debug\Debug_Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\Debug\Debug_Font.xnb</Output>
+      <Time>2016-04-20T10:38:28.8989-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Eahscs\Desktop\XUI\XUIContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Eahscs\Desktop\Example\Example\Example\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Eahscs\Desktop\XUI\XUIContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Eahscs\Desktop\Example\Example\Example\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-18T11:24:14.1308-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
